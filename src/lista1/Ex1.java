@@ -13,6 +13,7 @@ public class Ex1 {
         Faça um programa que peça para digitar seu nome e a cidade que voce mora, 
         e apresente na tela a mensagem, MEU NOME é _______________, 
         MORO NA CIDADE DE ________________.
+        testando alteracao
          */
         String nome, cidade;
         Scanner scanner = new Scanner(System.in);
